@@ -1,0 +1,2275 @@
+beer_id,brewery_id,style,abv
+1436,408,General Ales,0.05
+2265,177,General Ales,0.066
+2264,177,IPA,0.071
+2263,177,IPA,0.09
+2262,177,IPA,0.075
+2261,177,Stout,0.077
+2260,177,General Ales,0.045
+2259,177,Porter,0.065
+2258,177,General Ales,0.055
+2131,177,IPA,0.086
+2099,177,General Ales,0.072
+2098,177,General Ales,0.073
+2097,177,General Ales,0.069
+1980,177,IPA,0.085
+1979,177,General Ales,0.061
+2318,154,Cider,0.06
+2170,154,Cider,0.06
+2169,154,Cider,0.06
+1502,154,Cider,0.06
+1593,368,Porter,0.082
+1592,368,General Ales,0.082
+1024,368,Dark Seasonal,0.079
+976,368,Stout,0.079
+876,368,General Ales,0.044
+802,368,Fruit or Vegetable,0.049
+801,368,Fruit or Vegetable,0.049
+800,368,Fruit or Vegetable,0.049
+799,368,IPA,0.07
+797,368,IPA,0.07
+796,368,IPA,0.07
+531,368,General Ales,0.085
+432,368,IPA,0.097
+353,368,General Ales,0.044
+321,368,Dark Seasonal,0.079
+173,368,General Ales,0.068
+11,368,General Ales,0.083
+10,368,IPA,0.07
+9,368,Fruit or Vegetable,0.049
+2519,67,IPA,0.07
+2518,67,General Ales,0.05
+2517,67,General Ales,0.059
+2545,60,Wheat Beer,0.035
+2544,60,General Ales,0.045
+2324,60,General Ales,0.055
+2288,60,General Ales,0.06
+2287,60,General Ales,0.055
+2286,60,IPA,0.065
+2285,60,IPA,0.065
+1870,60,Pale Wheat Ale,0.05
+2603,27,IPA,0.065
+2602,27,IPA,0.05
+2220,27,General Ales,0.09
+2219,27,IPA,0.069
+2218,27,General Ales,0.09
+2217,27,Kolsch,0.046
+2216,27,General Ales,0.052
+972,481,IPA,0.059
+866,481,General Ales,0.054
+48,481,General Ales,0.054
+47,481,IPA,0.084
+1583,373,Wheat Beer,0.038
+1165,462,Lager,0.055
+431,462,Lager,0.055
+516,533,IPA,0.065
+515,533,Fruit or Vegetable,0.042
+514,533,Lager,0.045
+2540,62,IPA,0.082
+2539,62,General Ales,0.05
+2686,1,IPA,0.08
+2684,1,Stout,0.077
+2683,1,General Ales,0.042
+2682,1,Pilsner,0.05
+2681,1,Fruit or Vegetable,0.066
+2680,1,General Ales,0.04
+2679,1,Pilsner,0.055
+2678,1,IPA,0.076
+2677,1,General Ales,0.051
+2676,1,General Ales,0.065
+2675,1,IPA,0.06
+2674,1,General Ales,0.05
+1594,367,Stout,0.053
+1162,367,General Ales,0.05
+1137,367,Pilsner,0.052
+2403,117,Pilsner,0.04
+2402,117,General Ales,0.053
+2401,117,IPA,0.082
+1921,270,General Ales,0.053
+1920,270,Lager,0.053
+2501,73,General Ales,0.057
+1535,388,Kolsch,0.043
+1149,388,IPA,0.065
+1474,401,General Ales,0.054
+1473,401,IPA,0.062
+837,401,IPA,0.062
+2592,35,IPA,0.059
+2578,35,IPA,0.065
+2577,35,Pale Wheat Ale,0.045
+2103,35,Lager,0.049
+2291,171,Wheat Beer,0.042
+1818,171,General Ales,0.042
+1738,171,Wheat Beer,0.048
+1563,171,Fruit or Vegetable,0.06
+1520,171,Stout,0.057
+1350,171,General Ales,0.056
+1327,171,IPA,0.07
+1326,171,General Ales,0.058
+1221,171,Stout,0.057
+1217,171,Lager,0.055
+811,171,General Ales,0.058
+753,171,General Ales,0.056
+572,171,Stout,0.057
+523,171,Dark Seasonal,0.069
+367,171,IPA,0.07
+78,171,General Ales,0.058
+77,171,General Ales,0.056
+76,171,General Ales,0.055
+2337,146,IPA,0.06
+410,542,General Ales,0.054
+409,542,Stout,0.047
+1294,434,Cider,0.05
+1293,434,Cider,0.05
+1292,434,Cider,0.05
+2207,193,General Ales,0.068
+2040,193,Wheat Beer,0.06
+2039,193,Stout,0.085
+2511,69,IPA,0.071
+2510,69,General Ales,0.047
+2509,69,Porter,0.06
+413,541,General Ales,0.06
+390,541,Pale Wheat Ale,0.062
+735,513,General Ales,0.052
+1333,426,Stout,0.092
+1332,426,General Ales,0.051
+1172,461,Wheat Beer,0.052
+1322,429,IPA,0.07
+550,528,Kolsch,0.032
+429,528,Porter,0.053
+428,528,IPA,0.06
+1640,353,Kolsch,0.048
+1639,353,IPA,0.077
+1638,353,General Ales,0.077
+597,523,General Ales,0.056
+596,523,IPA,0.07
+1580,374,Stout,0.057
+980,374,IPA,0.082
+979,374,Porter,0.062
+978,374,General Ales,0.06
+2503,72,IPA,0.075
+2502,72,Porter,0.055
+2495,72,Fruit or Vegetable,0.052
+534,72,General Ales,0.045
+528,72,IPA,0.05
+527,72,Lager,0.05
+1409,413,General Ales,0.07
+343,413,IPA,0.062
+342,413,General Ales,0.051
+341,413,Pilsner,0.053
+340,413,Dark Seasonal,0.052
+2589,37,IPA,0.08
+2546,37,General Ales,0.064
+146,37,Pilsner,0.047
+108,37,Wheat Beer,0.056
+107,37,IPA,0.063
+106,37,General Ales,0.055
+1620,360,Fruit or Vegetable,0.062
+1228,360,Pale Wheat Ale,0.048
+705,360,IPA,0.067
+704,360,General Ales,0.092
+702,360,General Ales,0.061
+2058,235,IPA,0.086
+1483,235,Porter,0.06
+1426,235,General Ales,0.049
+1132,235,IPA,0.07
+1131,235,General Ales,0.05
+1876,286,General Ales,0.06
+1875,286,General Ales,0.06
+966,483,IPA,0.068
+965,483,General Ales,0.044
+2593,34,IPA,0.07
+2105,34,IPA,0.038
+1401,34,Kolsch,0.052
+1400,34,IPA,0.07
+1019,34,Lager,0.046
+1018,34,IPA,0.07
+1776,318,ESB,0.045
+1644,318,Rye Beer,0.045
+1643,318,General Ales,0.035
+2618,20,IPA,0.07
+2005,251,IPA,0.06
+1343,251,General Ales,0.045
+2404,116,Pilsner,0.049
+2323,116,IPA,0.067
+2189,116,General Ales,0.068
+2188,116,Wheat Beer,0.05
+2187,116,Lager,0.051
+1965,258,IPA,0.067
+1964,258,Dark Seasonal,0.05
+1963,258,Pilsner,0.054
+1778,292,Wheat Beer,0.07
+1209,292,Pale Wheat Ale,0.047
+954,292,Stout,0.068
+910,292,Rye Beer,0.066
+707,292,Pale Wheat Ale,0.047
+533,292,General Ales,0.055
+183,292,General Ales,0.049
+182,292,IPA,0.069
+1806,306,IPA,0.088
+2435,103,Fruit or Vegetable,0.05
+2423,103,General Ales,0.058
+2420,103,IPA,0.068
+2494,76,Pale Wheat Ale,0.058
+2325,76,Rye Beer,0.06
+2022,76,Wheat Beer,0.05
+1989,76,Pale Wheat Ale,0.058
+1988,76,IPA,0.07
+1955,76,General Ales,0.058
+2558,53,IPA,0.044
+2557,53,IPA,0.083
+2556,53,General Ales,0.057
+2496,75,General Ales,0.06
+2410,75,IPA,0.072
+1902,75,ESB,0.056
+1901,75,IPA,0.062
+1261,75,General Ales,0.06
+1253,75,Pilsner,0.05
+1900,278,IPA,0.055
+1317,278,General Ales,0.053
+1158,463,IPA,0.078
+1157,463,Pilsner,0.047
+1156,463,Porter,0.064
+1155,463,Wheat Beer,0.056
+1154,463,General Ales,0.06
+2104,220,General Ales,0.081
+1762,220,IPA,0.095
+1067,220,General Ales,0.067
+1003,477,IPA,0.07
+1002,477,Stout,0.065
+1001,477,General Ales,0.06
+2639,8,Stout,0.08
+2469,8,IPA,0.062
+2586,40,Fruit or Vegetable,0.06
+2585,40,IPA,0.075
+643,519,Pilsner,0.05
+632,519,IPA,0.06
+1714,336,IPA,0.062
+1713,336,General Ales,0.05
+1712,336,Pale Wheat Ale,0.05
+1711,336,General Ales,0.051
+1456,336,General Ales,0.072
+767,336,General Ales,0.051
+766,336,Pale Wheat Ale,0.05
+579,336,IPA,0.062
+168,336,General Ales,0.047
+159,336,General Ales,0.05
+35,336,Pale Wheat Ale,0.05
+34,336,General Ales,0.051
+2096,221,IPA,0.069
+2095,221,General Ales,0.058
+1257,444,General Ales,0.053
+1256,444,Rye Beer,0.099
+1255,444,IPA,0.098
+986,444,Stout,0.055
+985,444,IPA,0.066
+2508,70,General Ales,0.055
+1441,407,General Ales,0.052
+1413,407,General Ales,0.063
+1411,407,General Ales,0.054
+2620,18,Rye Beer,0.072
+2412,112,General Ales,0.045
+1898,112,IPA,0.075
+1897,112,Wheat Beer,0.05
+1896,112,General Ales,0.058
+1850,294,General Ales,0.071
+1849,294,Porter,0.071
+1848,294,General Ales,0.078
+1847,294,General Ales,0.066
+2485,79,General Ales,0.048
+2484,79,General Ales,0.046
+2449,95,Rye Beer,0.073
+2634,12,IPA,0.048
+2153,12,Stout,0.06
+1953,12,Pale Wheat Ale,0.052
+1496,12,General Ales,0.068
+1481,12,IPA,0.07
+1480,12,General Ales,0.055
+1564,380,Pale Wheat Ale,0.05
+1321,380,General Ales,0.055
+1320,380,General Ales,0.08
+1319,380,IPA,0.096
+1303,380,Pilsner,0.052
+1012,380,Stout,0.05
+942,380,General Ales,0.064
+937,380,General Ales,0.045
+888,380,ESB,0.056
+886,380,ESB,0.056
+612,380,ESB,0.056
+611,380,General Ales,0.046
+1372,422,Herbed / Mead,0.059
+1371,422,Herbed / Mead,0.059
+1812,304,IPA,0.08
+1547,382,General Ales,0.059
+1546,382,ESB,0.065
+1545,382,General Ales,0.053
+119,382,General Ales,0.059
+1408,414,Kolsch,0.049
+939,489,General Ales,0.07
+692,489,IPA,0.06
+667,489,General Ales,0.044
+665,489,Lager,0.055
+1607,364,Lager,0.06
+1597,364,Lager,0.053
+344,364,Dark Seasonal,0.04
+89,364,Pilsner,0.05
+88,364,Lager,0.05
+1569,378,IPA,0.065
+1568,378,General Ales,0.055
+1188,378,General Ales,0.06
+1891,281,IPA,0.042
+1890,281,Stout,0.04
+577,525,Lager,0.051
+513,525,Lager,0.045
+2422,107,IPA,0.066
+1727,107,Dark Seasonal,0.075
+1614,107,Pilsner,0.048
+1549,107,IPA,0.07
+1548,107,General Ales,0.047
+1517,107,IPA,0.068
+1500,107,General Ales,0.047
+1421,107,General Ales,0.047
+1360,107,ESB,0.048
+1184,107,Lager,0.049
+1183,107,General Ales,0.053
+1023,107,Dark Seasonal,0.064
+998,107,Porter,0.061
+997,107,General Ales,0.058
+996,107,General Ales,0.058
+931,107,Pilsner,0.048
+798,107,General Ales,0.048
+633,107,IPA,0.066
+2062,231,Porter,0.071
+1629,300,IPA,0.065
+1601,300,Wheat Beer,0.055
+1427,300,Dark Seasonal,0.056
+1349,300,Lager,0.049
+1310,300,Lager,0.049
+1144,300,Pale Wheat Ale,0.053
+1143,300,Lager,0.049
+1395,417,General Ales,0.049
+808,417,General Ales,0.057
+81,417,General Ales,0.049
+2596,31,IPA,0.062
+2300,167,General Ales,0.065
+2299,167,IPA,0.058
+2298,167,General Ales,0.047
+2107,219,Porter,0.06
+1573,219,Porter,0.057
+1289,219,IPA,0.07
+1288,219,Wheat Beer,0.06
+470,219,General Ales,0.055
+2167,207,General Ales,0.052
+2204,195,Kolsch,0.05
+1522,391,Pale Wheat Ale,0.042
+397,391,Pale Wheat Ale,0.045
+193,391,IPA,0.062
+83,391,General Ales,0.054
+1802,308,Fruit or Vegetable,0.05
+1801,308,IPA,0.072
+1800,308,General Ales,0.05
+1799,308,Pale Wheat Ale,0.055
+2619,19,General Ales,0.058
+2468,85,General Ales,0.053
+2637,10,General Ales,0.067
+2636,10,General Ales,0.06
+2598,10,Stout,0.098
+2597,10,IPA,0.06
+2541,10,IPA,0.065
+2504,10,Dark Seasonal,0.065
+2500,10,General Ales,0.065
+2499,10,Wheat Beer,0.065
+2498,10,IPA,0.05
+2481,10,General Ales,0.09
+2476,10,IPA,0.055
+2467,10,General Ales,0.059
+2466,10,Rye Beer,0.066
+2465,10,Wheat Beer,0.041
+2433,10,General Ales,0.082
+2418,10,Dark Seasonal,0.065
+2416,10,General Ales,0.062
+2290,10,Wheat Beer,0.061
+2241,10,Stout,0.063
+2240,10,Porter,0.056
+2137,10,Dark Seasonal,0.099
+2092,10,IPA,0.062
+2091,10,General Ales,0.062
+2086,10,IPA,0.053
+2023,10,Rye Beer,0.063
+2006,10,Stout,0.064
+1997,10,Fruit or Vegetable,0.07
+1977,10,General Ales,0.067
+1976,10,General Ales,0.067
+1974,10,General Ales,0.05
+1959,10,General Ales,0.065
+1958,10,Wheat Beer,0.045
+1949,10,Stout,0.063
+1947,10,IPA,0.093
+1785,10,General Ales,0.073
+1651,10,Fruit or Vegetable,0.056
+1443,10,IPA,0.093
+1267,10,General Ales,0.05
+1266,10,General Ales,0.09
+1178,10,General Ales,0.082
+1136,10,General Ales,0.098
+1044,10,General Ales,0.06
+1033,10,Dark Seasonal,0.099
+1031,10,Stout,0.095
+909,10,General Ales,0.092
+860,10,Stout,0.099
+677,10,General Ales,0.062
+671,10,General Ales,0.09
+670,10,General Ales,0.092
+669,10,IPA,0.097
+627,10,General Ales,0.085
+387,10,General Ales,0.055
+385,10,General Ales,0.06
+384,10,IPA,0.065
+2456,89,General Ales,0.061
+921,493,General Ales,0.05
+920,493,General Ales,0.052
+919,493,General Ales,0.048
+648,493,IPA,0.061
+1279,437,IPA,0.068
+756,437,General Ales,0.045
+566,437,IPA,0.068
+328,437,General Ales,0.045
+66,437,Lager,0.052
+65,437,Lager,0.052
+538,530,IPA,0.08
+383,530,General Ales,0.073
+29,530,Dark Seasonal,0.099
+28,530,General Ales,0.062
+27,530,Herbed / Mead,0.058
+26,530,Dark Seasonal,0.052
+1627,357,Lager,0.053
+2552,56,General Ales,0.045
+2125,214,General Ales,0.06
+2124,214,Wheat Beer,0.06
+2123,214,IPA,0.09
+2608,24,General Ales,0.065
+2607,24,General Ales,0.068
+2606,24,Fruit or Vegetable,0.078
+2478,24,General Ales,0.055
+2471,24,IPA,0.099
+2470,24,General Ales,0.06
+2464,24,Pale Wheat Ale,0.065
+2160,24,Pale Wheat Ale,0.068
+2158,24,IPA,0.072
+2072,24,IPA,0.068
+2054,24,General Ales,0.055
+2196,197,General Ales,0.05
+668,517,General Ales,0.056
+52,556,Wheat Beer,0.049
+51,556,IPA,0.068
+50,556,Stout,0.049
+49,556,General Ales,0.043
+2657,5,Stout,0.093
+2656,5,General Ales,0.062
+2655,5,General Ales,0.06
+2654,5,Kolsch,0.048
+2653,5,IPA,0.077
+2652,5,IPA,0.097
+2252,182,Porter,0.052
+2214,182,General Ales,0.053
+2213,182,General Ales,0.063
+1442,182,IPA,0.068
+170,182,General Ales,0.063
+169,182,General Ales,0.053
+2315,155,IPA,0.068
+1808,155,Porter,0.06
+1419,155,General Ales,0.056
+878,155,Lager,0.039
+794,155,General Ales,0.054
+793,155,IPA,0.061
+792,155,IPA,0.061
+791,155,General Ales,0.056
+790,155,General Ales,0.056
+789,155,General Ales,0.056
+788,155,General Ales,0.056
+38,155,General Ales,0.056
+37,155,General Ales,0.054
+36,155,IPA,0.061
+2257,178,Pilsner,0.05
+2256,178,IPA,0.065
+2068,230,Fruit or Vegetable,0.099
+2067,230,IPA,0.09
+2066,230,IPA,0.055
+2065,230,Pilsner,0.054
+2064,230,General Ales,0.055
+1928,267,General Ales,0.055
+1927,267,General Ales,0.049
+2227,192,General Ales,0.065
+2226,192,Lager,0.052
+2225,192,Lager,0.046
+1954,192,IPA,0.056
+1910,192,Lager,0.046
+1177,192,IPA,0.062
+840,192,Lager,0.052
+180,192,Pale Wheat Ale,0.042
+63,192,Lager,0.052
+62,192,General Ales,0.05
+784,504,General Ales,0.04
+783,504,General Ales,0.05
+782,504,General Ales,0.035
+2255,179,Dark Seasonal,0.059
+530,179,IPA,0.057
+427,179,Kolsch,0.051
+2094,222,General Ales,0.099
+1941,222,Wheat Beer,0.039
+1940,222,IPA,0.078
+1439,222,IPA,0.042
+1465,404,Cider,0.069
+1464,404,Cider,0.069
+1744,331,General Ales,0.056
+1743,331,IPA,0.052
+1742,331,Wheat Beer,0.047
+1719,331,Dark Seasonal,0.07
+638,331,Wheat Beer,0.047
+507,331,IPA,0.052
+480,331,General Ales,0.056
+1882,285,Wheat Beer,0.048
+1881,285,General Ales,0.078
+2446,96,General Ales,0.058
+2106,96,Porter,0.054
+2600,29,IPA,0.085
+2052,29,IPA,0.068
+1182,29,General Ales,0.051
+1050,29,General Ales,0.05
+1219,452,General Ales,0.05
+1218,452,General Ales,0.05
+2377,122,Lager,0.05
+1839,122,Lager,0.045
+1248,122,Lager,0.05
+1247,122,General Ales,0.052
+1649,350,Herbed / Mead,0.051
+1648,350,IPA,0.072
+1647,350,IPA,0.095
+1646,350,General Ales,0.075
+2057,236,Rye Beer,0.07
+2056,236,Stout,0.06
+2055,236,Kolsch,0.05
+1933,236,IPA,0.07
+2019,250,Kolsch,0.045
+2018,250,Fruit or Vegetable,0.065
+2017,250,General Ales,0.055
+2016,250,General Ales,0.045
+2080,226,General Ales,0.08
+2380,121,IPA,0.057
+2379,121,Fruit or Vegetable,0.057
+2354,121,Lager,0.052
+2440,99,IPA,0.089
+567,526,Pilsner,0.049
+1342,425,Cider,0.05
+1341,425,Cider,0.05
+2349,141,Dark Seasonal,0.055
+2014,141,IPA,0.062
+2013,141,General Ales,0.082
+2012,141,General Ales,0.055
+2010,141,Porter,0.06
+2009,141,IPA,0.045
+1726,141,IPA,0.07
+1725,141,IPA,0.07
+1695,141,General Ales,0.063
+1694,141,IPA,0.07
+1693,141,IPA,0.07
+1692,141,IPA,0.07
+1369,141,General Ales,0.055
+1243,141,Pale Wheat Ale,0.052
+1142,141,IPA,0.075
+1141,141,IPA,0.075
+1140,141,Porter,0.08
+1139,141,General Ales,0.05
+1138,141,General Ales,0.055
+571,141,General Ales,0.055
+570,141,Lager,0.05
+569,141,General Ales,0.072
+546,141,IPA,0.075
+545,141,Wheat Beer,0.05
+2338,145,Lager,0.048
+1365,145,Fruit or Vegetable,0.06
+1094,145,Wheat Beer,0.045
+657,145,Lager,0.062
+656,145,IPA,0.065
+359,145,Lager,0.038
+56,145,General Ales,0.056
+1772,320,IPA,0.067
+1393,418,General Ales,0.06
+893,418,Pale Wheat Ale,0.044
+1407,415,General Ales,0.047
+1406,415,General Ales,0.062
+2438,101,Kolsch,0.046
+2437,101,IPA,0.065
+751,101,General Ales,0.052
+120,101,General Ales,0.052
+2061,232,Fruit or Vegetable,0.058
+970,482,IPA,0.068
+969,482,Pilsner,0.048
+968,482,General Ales,0.056
+2351,139,Pilsner,0.05
+1650,139,General Ales,0.052
+1337,139,Stout,0.057
+1336,139,ESB,0.061
+737,512,General Ales,0.038
+129,553,Kolsch,0.05
+716,515,General Ales,0.048
+659,515,Stout,0.075
+556,515,General Ales,0.077
+2538,63,General Ales,0.06
+2355,63,General Ales,0.075
+1689,63,Stout,0.059
+685,63,Wheat Beer,0.052
+613,63,General Ales,0.06
+356,63,General Ales,0.052
+2029,247,IPA,0.065
+2028,247,Wheat Beer,0.045
+2293,169,General Ales,0.049
+1105,169,Porter,0.055
+1104,169,General Ales,0.056
+2145,212,General Ales,0.065
+1804,212,Herbed / Mead,0.066
+1602,212,General Ales,0.055
+1301,212,General Ales,0.045
+542,212,General Ales,0.055
+272,212,Porter,0.069
+271,212,IPA,0.06
+1057,472,General Ales,0.06
+681,472,Kolsch,0.052
+1789,315,General Ales,0.049
+1788,315,Wheat Beer,0.054
+1787,315,General Ales,0.08
+1786,315,IPA,0.063
+1763,323,General Ales,0.045
+1311,323,Kolsch,0.06
+2078,227,Dark Seasonal,0.08
+1809,227,General Ales,0.05
+1263,227,Wheat Beer,0.053
+1092,227,Porter,0.055
+851,227,IPA,0.092
+186,227,IPA,0.065
+185,227,General Ales,0.07
+184,227,General Ales,0.06
+1224,451,IPA,0.065
+964,451,IPA,0.065
+1623,358,IPA,0.072
+110,554,General Ales,0.055
+1735,333,General Ales,0.05
+1734,333,General Ales,0.05
+1746,330,General Ales,0.063
+2371,127,General Ales,0.06
+2251,127,General Ales,0.075
+2166,127,IPA,0.085
+1827,127,General Ales,0.06
+1203,127,Porter,0.07
+1202,127,General Ales,0.048
+1161,127,Pilsner,0.046
+946,127,General Ales,0.052
+943,127,IPA,0.07
+1886,283,IPA,0.045
+1885,283,General Ales,0.05
+1213,453,Stout,0.059
+1159,453,General Ales,0.056
+947,453,IPA,0.065
+929,453,General Ales,0.058
+1944,263,IPA,0.07
+1943,263,Porter,0.05
+1210,454,General Ales,0.05
+2550,57,Wheat Beer,0.052
+2505,57,General Ales,0.049
+2025,57,IPA,0.063
+2021,57,Wheat Beer,0.05
+2015,57,Fruit or Vegetable,0.05
+1888,57,IPA,0.096
+1887,57,General Ales,0.049
+2051,237,General Ales,0.044
+1201,237,General Ales,0.052
+924,491,General Ales,0.054
+730,491,IPA,0.071
+647,491,Dark Seasonal,0.074
+1773,319,General Ales,0.045
+1795,311,IPA,0.065
+1246,446,Cider,0.049
+977,446,Cider,0.051
+881,496,IPA,0.066
+880,496,Fruit or Vegetable,0.051
+872,496,Wheat Beer,0.043
+871,496,General Ales,0.058
+1685,340,IPA,0.061
+457,538,Pale Wheat Ale,0.045
+1590,369,Fruit or Vegetable,0.05
+1382,369,IPA,0.078
+1110,369,General Ales,0.06
+1014,369,Fruit or Vegetable,0.05
+911,369,Fruit or Vegetable,0.055
+680,369,Pilsner,0.045
+395,369,IPA,0.078
+1642,352,ESB,0.057
+673,516,Lager,0.049
+1107,465,General Ales,0.07
+1039,473,Lager,0.05
+2477,81,Fruit or Vegetable,0.052
+2008,81,General Ales,0.052
+2004,81,General Ales,0.05
+2003,81,IPA,0.062
+2292,170,IPA,0.043
+1504,170,IPA,0.062
+2604,26,General Ales,0.049
+2432,26,IPA,0.07
+2431,26,Pale Wheat Ale,0.051
+2430,26,General Ales,0.052
+2429,26,Porter,0.048
+1967,26,Pilsner,0.054
+2283,173,Wheat Beer,0.04
+2248,173,IPA,0.085
+1287,173,General Ales,0.055
+1286,173,IPA,0.027
+640,173,General Ales,0.055
+1722,335,General Ales,0.05
+1435,335,General Ales,0.045
+1434,335,IPA,0.067
+2089,224,General Ales,0.063
+2088,224,IPA,0.07
+1455,405,Stout,0.07
+1454,405,General Ales,0.05
+1453,405,Rye Beer,0.05
+1452,405,Kolsch,0.05
+1451,405,IPA,0.07
+2191,201,General Ales,0.075
+1731,201,Fruit or Vegetable,0.046
+1022,201,IPA,0.051
+895,201,General Ales,0.075
+682,201,IPA,0.069
+112,201,General Ales,0.05
+2289,172,IPA,0.081
+2027,172,IPA,0.082
+1929,172,IPA,0.082
+1858,172,Porter,0.055
+2591,36,Wheat Beer,0.045
+2590,36,Pilsner,0.055
+1968,36,Kolsch,0.048
+1981,256,IPA,0.09
+1664,256,General Ales,0.08
+1663,256,General Ales,0.086
+1662,256,Pale Wheat Ale,0.05
+941,256,Stout,0.053
+935,256,General Ales,0.08
+809,256,General Ales,0.055
+481,256,IPA,0.075
+351,256,General Ales,0.055
+350,256,General Ales,0.047
+2569,48,IPA,0.045
+2463,48,IPA,0.075
+2462,48,Pilsner,0.053
+1957,48,General Ales,0.047
+1733,48,General Ales,0.047
+2624,16,Dark Seasonal,0.065
+2284,16,General Ales,0.05
+1610,16,IPA,0.06
+2554,54,General Ales,0.055
+608,521,IPA,0.071
+607,521,General Ales,0.047
+2567,50,Porter,0.04
+2566,50,IPA,0.07
+1899,279,General Ales,0.078
+983,279,IPA,0.06
+982,279,Porter,0.065
+981,279,General Ales,0.045
+2111,217,Wheat Beer,0.05
+2110,217,IPA,0.069
+2172,206,General Ales,0.052
+2171,206,IPA,0.062
+1911,206,IPA,0.045
+1803,206,IPA,0.065
+1566,206,General Ales,0.062
+1515,206,IPA,0.067
+1214,206,General Ales,0.058
+674,206,Wheat Beer,0.052
+562,206,General Ales,0.055
+552,206,Stout,0.088
+319,206,Lager,0.051
+318,206,IPA,0.074
+2661,4,Pale Wheat Ale,0.047
+2660,4,General Ales,0.056
+2659,4,Kolsch,0.046
+2658,4,IPA,0.063
+2625,15,Dark Seasonal,0.085
+1565,15,IPA,0.072
+1223,15,IPA,0.047
+1874,287,IPA,0.076
+1873,287,Porter,0.057
+1872,287,General Ales,0.052
+2613,22,Stout,0.055
+2612,22,General Ales,0.05
+2611,22,IPA,0.06
+2610,22,IPA,0.064
+1657,348,General Ales,0.04
+2309,160,Kolsch,0.052
+1616,160,Porter,0.051
+1585,160,Fruit or Vegetable,0.042
+358,160,IPA,0.067
+179,160,General Ales,0.06
+178,160,Kolsch,0.052
+2428,105,Porter,0.06
+2427,105,Pale Wheat Ale,0.05
+2425,105,General Ales,0.057
+2424,105,IPA,0.07
+1998,253,General Ales,0.056
+1556,253,IPA,0.069
+1208,253,Lager,0.055
+2526,66,General Ales,0.065
+2525,66,Wheat Beer,0.06
+2524,66,Lager,0.042
+2523,66,General Ales,0.068
+2522,66,Wheat Beer,0.042
+2521,66,IPA,0.059
+2520,66,Wheat Beer,0.044
+1174,460,IPA,0.04
+1116,460,General Ales,0.045
+994,460,General Ales,0.08
+901,460,General Ales,0.065
+875,460,General Ales,0.065
+858,460,General Ales,0.056
+857,460,IPA,0.065
+1300,433,Kolsch,0.053
+1260,433,Dark Seasonal,0.07
+1259,433,ESB,0.052
+2254,180,IPA,0.07
+1658,347,General Ales,0.05
+2077,228,IPA,0.072
+2076,228,General Ales,0.049
+2075,228,General Ales,0.05
+2426,106,IPA,0.067
+2045,240,General Ales,0.072
+1960,240,General Ales,0.058
+1777,240,IPA,0.074
+1698,240,IPA,0.08
+1641,240,IPA,0.094
+1490,240,IPA,0.059
+1489,240,Wheat Beer,0.046
+1399,240,IPA,0.068
+1296,240,IPA,0.059
+1034,240,Kolsch,0.05
+991,240,General Ales,0.055
+750,240,IPA,0.08
+749,240,IPA,0.08
+549,240,IPA,0.059
+548,240,Wheat Beer,0.046
+2587,39,Porter,0.07
+1109,464,IPA,0.07
+1108,464,Pale Wheat Ale,0.06
+1000,478,General Ales,0.056
+312,478,IPA,0.093
+311,478,Stout,0.06
+309,478,IPA,0.06
+308,478,General Ales,0.058
+2205,194,General Ales,0.055
+2198,196,IPA,0.059
+2457,88,General Ales,0.054
+2202,88,General Ales,0.054
+2201,88,Pale Wheat Ale,0.042
+1829,88,Pale Wheat Ale,0.042
+581,88,Pale Wheat Ale,0.042
+1383,420,General Ales,0.052
+477,536,Pale Wheat Ale,0.05
+476,536,Pilsner,0.052
+143,536,General Ales,0.054
+2129,213,Pale Wheat Ale,0.043
+2127,213,General Ales,0.049
+2126,213,General Ales,0.055
+2303,165,General Ales,0.053
+1990,165,Fruit or Vegetable,0.057
+1702,165,Porter,0.056
+1701,165,IPA,0.062
+1700,165,Lager,0.057
+1699,165,General Ales,0.053
+1269,165,Porter,0.056
+649,165,General Ales,0.045
+639,165,Fruit or Vegetable,0.057
+626,165,Lager,0.057
+615,165,Wheat Beer,0.06
+478,165,Wheat Beer,0.051
+455,165,Stout,0.075
+442,165,Stout,0.08
+441,165,Porter,0.056
+440,165,Lager,0.057
+439,165,General Ales,0.042
+436,165,IPA,0.062
+389,165,General Ales,0.053
+2650,6,General Ales,0.05
+2649,6,General Ales,0.087
+2648,6,Pale Wheat Ale,0.061
+2647,6,IPA,0.071
+2646,6,General Ales,0.083
+2645,6,IPA,0.05
+2644,6,Stout,0.095
+2643,6,General Ales,0.073
+2642,6,IPA,0.071
+404,543,General Ales,0.045
+164,543,General Ales,0.045
+1923,269,General Ales,0.052
+1922,269,General Ales,0.052
+1604,365,Fruit or Vegetable,0.05
+1574,365,General Ales,0.07
+1446,365,General Ales,0.048
+1275,365,General Ales,0.048
+1244,365,Lager,0.048
+1064,365,General Ales,0.05
+1028,365,Lager,0.06
+865,365,Wheat Beer,0.055
+864,365,General Ales,0.054
+863,365,General Ales,0.053
+672,365,Rye Beer,0.09
+655,365,General Ales,0.07
+540,365,IPA,0.07
+517,365,General Ales,0.048
+371,365,Stout,0.06
+190,365,General Ales,0.053
+189,365,General Ales,0.054
+1106,466,General Ales,0.05
+2314,156,General Ales,0.057
+2313,156,General Ales,0.067
+2044,86,IPA,0.085
+1505,379,General Ales,0.06
+1186,379,Wheat Beer,0.04
+1185,379,General Ales,0.055
+984,379,Porter,0.06
+693,379,General Ales,0.06
+631,379,General Ales,0.049
+2375,124,Pale Wheat Ale,0.045
+2143,124,Dark Seasonal,0.065
+2142,124,Fruit or Vegetable,0.05
+2141,124,Pilsner,0.05
+2140,124,General Ales,0.065
+2139,124,IPA,0.075
+2138,124,General Ales,0.05
+2007,124,IPA,0.04
+1570,124,General Ales,0.09
+2339,144,Lager,0.063
+1857,290,IPA,0.069
+1440,290,General Ales,0.047
+1753,327,IPA,0.07
+1448,327,Pilsner,0.08
+1134,327,Pilsner,0.057
+1066,327,Pale Wheat Ale,0.055
+849,327,IPA,0.06
+352,327,General Ales,0.06
+149,327,General Ales,0.042
+148,327,General Ales,0.052
+2026,248,IPA,0.07
+1361,248,General Ales,0.052
+1016,476,Fruit or Vegetable,0.046
+1015,476,Lager,0.043
+1677,343,IPA,0.075
+1331,343,General Ales,0.044
+1270,343,General Ales,0.056
+2059,234,Herbed / Mead,0.052
+1653,234,IPA,0.062
+1558,234,Cider,0.048
+1380,234,Kolsch,0.05
+1379,234,IPA,0.059
+1340,234,Fruit or Vegetable,0.059
+770,234,IPA,0.059
+769,234,Kolsch,0.05
+610,234,Pale Wheat Ale,0.048
+192,234,Kolsch,0.05
+126,234,IPA,0.059
+181,535,Wheat Beer,0.048
+2183,204,General Ales,0.049
+2182,204,General Ales,0.054
+2181,204,General Ales,0.064
+2180,204,General Ales,0.064
+2179,204,General Ales,0.083
+1895,280,IPA,0.076
+1894,280,General Ales,0.062
+1893,280,IPA,0.088
+990,479,IPA,0.072
+988,479,General Ales,0.06
+1351,423,General Ales,0.063
+1346,423,IPA,0.08
+904,423,Stout,0.099
+2295,168,Pilsner,0.063
+2294,168,General Ales,0.07
+824,500,Pale Wheat Ale,0.044
+616,500,Fruit or Vegetable,0.045
+96,500,General Ales,0.055
+1615,362,General Ales,0.045
+889,362,Pilsner,0.055
+724,362,General Ales,0.049
+497,362,General Ales,0.055
+496,362,General Ales,0.066
+1652,349,IPA,0.042
+1835,297,General Ales,0.042
+1834,297,General Ales,0.047
+1833,297,IPA,0.058
+2195,198,General Ales,0.049
+1605,198,General Ales,0.078
+1543,198,IPA,0.063
+1390,198,General Ales,0.049
+1354,198,General Ales,0.048
+1353,198,IPA,0.065
+499,198,IPA,0.065
+498,198,General Ales,0.049
+1501,395,IPA,0.07
+1004,395,General Ales,0.051
+502,395,Lager,0.051
+501,395,General Ales,0.06
+2357,136,Porter,0.065
+2483,80,Cider,0.068
+2400,80,Pale Wheat Ale,0.039
+2399,80,Pale Wheat Ale,0.039
+2398,80,Pale Wheat Ale,0.039
+2397,80,Pale Wheat Ale,0.039
+2396,80,Pale Wheat Ale,0.039
+2395,80,Pale Wheat Ale,0.039
+2394,80,Pale Wheat Ale,0.039
+2393,80,Pale Wheat Ale,0.039
+2392,80,Pale Wheat Ale,0.039
+2391,80,Pale Wheat Ale,0.039
+2390,80,Pale Wheat Ale,0.039
+2389,80,Pale Wheat Ale,0.039
+2388,80,General Ales,0.058
+2200,80,Stout,0.058
+2199,80,IPA,0.066
+2193,80,General Ales,0.073
+1398,80,IPA,0.06
+1085,80,General Ales,0.058
+916,80,General Ales,0.073
+658,80,Pilsner,0.051
+653,80,IPA,0.066
+2385,120,Pale Wheat Ale,0.056
+2384,120,Wheat Beer,0.051
+1251,445,General Ales,0.065
+1250,445,Lager,0.055
+1903,277,IPA,0.068
+1691,277,Dark Seasonal,0.065
+1555,277,Fruit or Vegetable,0.05
+1115,277,Pale Wheat Ale,0.046
+729,277,General Ales,0.065
+728,277,General Ales,0.054
+2350,140,General Ales,0.048
+2301,140,General Ales,0.055
+1904,140,Wheat Beer,0.059
+2609,23,General Ales,0.058
+2038,242,IPA,0.07
+1774,242,General Ales,0.055
+559,527,General Ales,0.045
+558,527,IPA,0.068
+553,527,General Ales,0.053
+2376,123,General Ales,0.049
+2672,2,General Ales,0.048
+2671,2,General Ales,0.072
+2670,2,General Ales,0.067
+2669,2,General Ales,0.049
+1405,416,Cider,0.05
+823,416,Cider,0.051
+1793,312,General Ales,0.055
+2453,92,Fruit or Vegetable,0.055
+2363,92,IPA,0.065
+689,92,IPA,0.07
+688,92,General Ales,0.05
+687,92,General Ales,0.067
+2408,114,IPA,0.069
+2480,32,Wheat Beer,0.045
+1525,32,Porter,0.055
+1524,32,General Ales,0.055
+1523,32,General Ales,0.06
+1254,32,IPA,0.06
+2060,233,Wheat Beer,0.05
+469,233,General Ales,0.05
+468,233,IPA,0.093
+467,233,Lager,0.052
+2163,208,IPA,0.071
+2162,208,Dark Seasonal,0.075
+2374,125,Wheat Beer,0.052
+1560,125,Lager,0.058
+1557,125,General Ales,0.055
+1235,125,Kolsch,0.047
+1068,125,General Ales,0.066
+666,125,IPA,0.095
+465,125,Lager,0.049
+464,125,Wheat Beer,0.052
+463,125,IPA,0.066
+1678,342,Lager,0.057
+1572,342,IPA,0.06
+1348,342,Pilsner,0.055
+1193,458,General Ales,0.058
+1187,458,General Ales,0.05
+349,458,IPA,0.068
+348,458,General Ales,0.058
+760,510,Dark Seasonal,0.065
+759,510,IPA,0.065
+758,510,IPA,0.065
+87,510,General Ales,0.055
+86,510,IPA,0.065
+85,510,Dark Seasonal,0.065
+2436,102,General Ales,0.051
+1706,102,Pilsner,0.055
+1667,102,IPA,0.06
+1666,102,Wheat Beer,0.057
+1665,102,General Ales,0.049
+2460,87,IPA,0.063
+2459,87,Pale Wheat Ale,0.048
+1274,439,Lager,0.046
+1220,439,Lager,0.046
+1070,439,Lager,0.046
+590,439,Lager,0.046
+781,505,Wheat Beer,0.04
+1637,354,General Ales,0.08
+1741,332,Wheat Beer,0.054
+664,332,IPA,0.072
+392,545,Dark Seasonal,0.066
+195,545,Kolsch,0.048
+2547,59,Wheat Beer,0.045
+2493,59,IPA,0.068
+2492,59,General Ales,0.05
+2491,59,General Ales,0.055
+2108,218,General Ales,0.05
+1397,218,Pilsner,0.048
+1396,218,IPA,0.064
+1675,345,IPA,0.064
+1249,345,IPA,0.056
+1445,406,Pilsner,0.05
+475,537,Kolsch,0.051
+474,537,IPA,0.057
+473,537,General Ales,0.05
+472,537,Wheat Beer,0.05
+471,537,General Ales,0.057
+2036,244,Pilsner,0.052
+1168,244,General Ales,0.06
+1832,298,Stout,0.058
+1688,298,General Ales,0.057
+1687,298,Fruit or Vegetable,0.052
+1686,298,IPA,0.065
+2434,104,General Ales,0.057
+2332,149,Porter,0.06
+2330,149,Stout,0.075
+2329,149,General Ales,0.057
+2327,149,Wheat Beer,0.058
+2326,149,General Ales,0.061
+1926,268,IPA,0.059
+1924,268,General Ales,0.046
+1090,268,Lager,0.072
+574,268,Fruit or Vegetable,0.04
+573,268,Lager,0.046
+2584,41,Wheat Beer,0.046
+2583,41,Pilsner,0.048
+2582,41,IPA,0.055
+2581,41,IPA,0.045
+1309,430,IPA,0.062
+1308,430,Pilsner,0.056
+1571,377,Stout,0.052
+1204,456,Wheat Beer,0.062
+1122,456,General Ales,0.052
+700,456,General Ales,0.048
+2033,245,General Ales,0.038
+2032,245,General Ales,0.051
+2311,158,General Ales,0.054
+1153,158,Pilsner,0.053
+355,158,IPA,0.061
+125,158,General Ales,0.058
+962,485,General Ales,0.05
+961,485,General Ales,0.051
+1475,400,General Ales,0.05
+1008,400,General Ales,0.055
+2454,91,IPA,0.099
+2209,91,General Ales,0.043
+2133,91,Dark Seasonal,0.085
+1994,91,Fruit or Vegetable,0.079
+1816,91,Kolsch,0.047
+1815,91,General Ales,0.05
+1126,91,IPA,0.069
+1125,91,General Ales,0.07
+1124,91,General Ales,0.06
+1813,303,Fruit or Vegetable,0.051
+1113,303,Wheat Beer,0.055
+360,303,Fruit or Vegetable,0.051
+511,534,Pilsner,0.042
+75,534,IPA,0.065
+74,534,Pilsner,0.042
+73,534,General Ales,0.045
+1628,356,Dark Seasonal,0.072
+1625,356,General Ales,0.045
+1624,356,IPA,0.055
+1600,356,Fruit or Vegetable,0.055
+1484,356,Pale Wheat Ale,0.05
+1356,356,General Ales,0.09
+1355,356,Fruit or Vegetable,0.06
+1334,356,IPA,0.085
+1674,346,IPA,0.099
+1673,346,IPA,0.08
+1672,346,General Ales,0.06
+1671,346,General Ales,0.095
+1670,346,General Ales,0.066
+1262,443,Pilsner,0.047
+845,443,IPA,0.062
+1783,317,IPA,0.072
+1717,317,General Ales,0.05
+1716,317,Stout,0.099
+1516,317,General Ales,0.063
+725,317,IPA,0.097
+2308,161,General Ales,0.05
+2268,161,Stout,0.065
+2197,161,General Ales,0.05
+2120,161,IPA,0.08
+1234,161,IPA,0.08
+1233,161,Rye Beer,0.05
+1232,161,General Ales,0.05
+1231,161,Stout,0.065
+1831,299,IPA,0.065
+1135,299,IPA,0.065
+960,299,Pilsner,0.051
+959,299,Lager,0.045
+958,299,Lager,0.045
+957,299,General Ales,0.048
+956,299,Fruit or Vegetable,0.047
+773,299,General Ales,0.05
+686,299,IPA,0.06
+453,299,Pale Wheat Ale,0.047
+150,299,General Ales,0.055
+133,299,General Ales,0.055
+1578,375,General Ales,0.051
+1429,375,Pilsner,0.055
+1271,375,General Ales,0.05
+713,375,General Ales,0.07
+712,375,Fruit or Vegetable,0.082
+690,375,General Ales,0.06
+547,375,Wheat Beer,0.05
+435,375,IPA,0.068
+313,375,Pale Wheat Ale,0.055
+33,375,Lager,0.045
+32,375,Porter,0.057
+31,375,IPA,0.062
+1237,448,Porter,0.037
+1236,448,Wheat Beer,0.037
+1047,448,General Ales,0.037
+1986,254,Cider,0.069
+1985,254,Cider,0.069
+1984,254,Cider,0.069
+2186,203,IPA,0.072
+2185,203,IPA,0.072
+2184,203,General Ales,0.042
+2178,203,Porter,0.052
+2177,203,General Ales,0.052
+2176,203,General Ales,0.054
+1508,393,Fruit or Vegetable,0.053
+1507,393,General Ales,0.053
+1506,393,IPA,0.071
+1325,393,General Ales,0.053
+174,552,General Ales,0.056
+2093,223,IPA,0.063
+1814,223,IPA,0.063
+587,223,Wheat Beer,0.048
+586,223,General Ales,0.05
+434,223,IPA,0.057
+2668,3,IPA,0.08
+2667,3,IPA,0.075
+2666,3,Wheat Beer,0.06
+2664,3,IPA,0.08
+2663,3,General Ales,0.063
+2662,3,Kolsch,0.058
+2535,65,IPA,0.083
+2534,65,IPA,0.08
+2533,65,IPA,0.075
+2532,65,IPA,0.075
+2531,65,General Ales,0.065
+2530,65,Wheat Beer,0.043
+2529,65,IPA,0.075
+2528,65,General Ales,0.053
+1612,363,Pilsner,0.05
+1611,363,IPA,0.068
+1273,440,Wheat Beer,0.048
+365,440,General Ales,0.048
+1884,284,IPA,0.087
+1272,284,General Ales,0.051
+1080,284,IPA,0.075
+932,284,General Ales,0.065
+776,284,Wheat Beer,0.092
+172,284,Lager,0.048
+171,284,General Ales,0.051
+2359,134,Dark Seasonal,0.054
+2358,134,Lager,0.04
+2282,134,General Ales,0.05
+2281,134,General Ales,0.062
+2280,134,General Ales,0.062
+2279,134,General Ales,0.055
+2278,134,General Ales,0.055
+2277,134,General Ales,0.055
+2276,134,Lager,0.05
+2275,134,Lager,0.042
+2274,134,Lager,0.055
+2273,134,Lager,0.05
+2442,98,General Ales,0.05
+2441,98,IPA,0.068
+1460,98,General Ales,0.048
+1459,98,IPA,0.092
+1476,399,General Ales,0.04
+902,399,Pale Wheat Ale,0.04
+644,399,IPA,0.04
+337,547,General Ales,0.055
+336,547,General Ales,0.056
+2236,189,General Ales,0.042
+2159,209,IPA,0.075
+2157,209,IPA,0.068
+2156,209,General Ales,0.052
+2154,209,General Ales,0.067
+1495,209,General Ales,0.055
+1494,209,Pale Wheat Ale,0.047
+1493,209,Stout,0.058
+1492,209,General Ales,0.065
+327,549,General Ales,0.05
+719,514,General Ales,0.054
+718,514,IPA,0.087
+717,514,General Ales,0.058
+1907,276,General Ales,0.056
+1906,276,ESB,0.06
+1756,326,Lager,0.056
+1052,326,Pale Wheat Ale,0.047
+1051,326,Dark Seasonal,0.046
+1046,326,Pilsner,0.05
+2413,111,General Ales,0.052
+419,540,General Ales,0.05
+408,540,Wheat Beer,0.05
+2237,188,General Ales,0.052
+2208,188,IPA,0.07
+1952,260,General Ales,0.082
+768,507,Wheat Beer,0.085
+625,507,IPA,0.072
+326,507,Lager,0.042
+132,507,Wheat Beer,0.085
+131,507,Wheat Beer,0.055
+1598,366,Lager,0.05
+862,366,General Ales,0.04
+699,366,General Ales,0.04
+421,366,General Ales,0.053
+420,366,Pale Wheat Ale,0.053
+2345,143,Lager,0.037
+2224,143,Pilsner,0.052
+1775,143,Stout,0.053
+1291,143,Pilsner,0.086
+1093,143,Pale Wheat Ale,0.042
+580,143,General Ales,0.05
+403,143,Pale Wheat Ale,0.042
+316,143,Porter,0.07
+315,143,Dark Seasonal,0.065
+1537,387,General Ales,0.053
+1536,387,General Ales,0.074
+1265,387,IPA,0.085
+747,387,IPA,0.085
+746,387,General Ales,0.074
+654,387,General Ales,0.053
+1705,337,Fruit or Vegetable,0.061
+1148,337,IPA,0.065
+1147,337,Wheat Beer,0.048
+1146,337,General Ales,0.048
+1145,337,General Ales,0.057
+1758,325,IPA,0.066
+1757,325,Pilsner,0.048
+2475,82,IPA,0.045
+2230,82,IPA,0.065
+1987,82,General Ales,0.05
+1978,82,Lager,0.056
+1975,82,Pilsner,0.048
+1737,82,Lager,0.055
+1707,82,Pale Wheat Ale,0.052
+1690,82,Pale Wheat Ale,0.048
+1586,82,General Ales,0.052
+952,82,General Ales,0.05
+748,82,General Ales,0.052
+578,82,General Ales,0.05
+564,82,IPA,0.065
+563,82,General Ales,0.052
+115,82,IPA,0.065
+72,82,Pale Wheat Ale,0.048
+71,82,General Ales,0.052
+1417,410,Wheat Beer,0.034
+885,410,IPA,0.062
+884,410,Pilsner,0.05
+757,410,General Ales,0.05
+568,410,General Ales,0.09
+320,410,IPA,0.088
+43,410,General Ales,0.09
+42,410,IPA,0.088
+41,410,Pilsner,0.05
+40,410,General Ales,0.05
+39,410,IPA,0.062
+2272,174,General Ales,0.05
+1582,174,Stout,0.068
+1114,174,IPA,0.088
+486,174,IPA,0.065
+485,174,General Ales,0.039
+484,174,General Ales,0.049
+2043,241,Wheat Beer,0.056
+2042,241,General Ales,0.056
+2041,241,General Ales,0.052
+646,518,General Ales,0.054
+165,518,Wheat Beer,0.046
+2050,238,General Ales,0.042
+915,495,IPA,0.072
+914,495,Wheat Beer,0.054
+913,495,General Ales,0.055
+1811,305,General Ales,0.055
+1622,359,General Ales,0.051
+1621,359,IPA,0.072
+1307,431,IPA,0.06
+1306,431,Stout,0.061
+1305,431,General Ales,0.055
+1304,431,Pilsner,0.045
+2692,0,IPA,0.045
+2691,0,Stout,0.049
+2690,0,General Ales,0.048
+2689,0,Fruit or Vegetable,0.06
+2688,0,Porter,0.06
+2687,0,ESB,0.056
+1854,293,IPA,0.069
+1227,450,IPA,0.063
+1226,450,General Ales,0.063
+541,529,Pilsner,0.045
+109,529,Pale Wheat Ale,0.045
+1917,271,IPA,0.043
+1190,271,Pilsner,0.04
+1264,442,Fruit or Vegetable,0.055
+1258,442,IPA,0.061
+128,442,Fruit or Vegetable,0.051
+2331,150,IPA,0.067
+1669,150,General Ales,0.054
+1668,150,Stout,0.058
+999,150,IPA,0.067
+2247,184,Porter,0.082
+2069,184,General Ales,0.048
+2192,200,Pale Wheat Ale,0.047
+1130,200,Wheat Beer,0.051
+1129,200,Lager,0.05
+1081,200,Kolsch,0.045
+2335,148,General Ales,0.092
+2334,148,Dark Seasonal,0.087
+2333,148,Porter,0.054
+1721,148,Wheat Beer,0.047
+1720,148,General Ales,0.051
+1431,148,General Ales,0.051
+1430,148,Wheat Beer,0.047
+1059,471,General Ales,0.095
+1058,471,General Ales,0.065
+603,471,General Ales,0.06
+602,471,General Ales,0.05
+601,471,Stout,0.057
+600,471,Rye Beer,0.05
+1828,301,General Ales,0.06
+1487,301,General Ales,0.065
+1486,301,Stout,0.068
+1485,301,Porter,0.055
+1394,301,Fruit or Vegetable,0.046
+1381,301,Pale Wheat Ale,0.045
+900,301,General Ales,0.065
+891,301,IPA,0.075
+509,301,General Ales,0.055
+508,301,Pale Wheat Ale,0.048
+1530,390,General Ales,0.053
+1529,390,Lager,0.055
+1528,390,General Ales,0.067
+1527,390,Lager,0.042
+1526,390,Lager,0.041
+2113,216,General Ales,0.065
+2112,216,General Ales,0.053
+2302,166,IPA,0.049
+1883,166,General Ales,0.052
+1859,166,Dark Seasonal,0.08
+1751,166,General Ales,0.05
+1444,166,General Ales,0.065
+1252,166,General Ales,0.065
+1167,166,Pilsner,0.053
+993,166,IPA,0.085
+992,166,IPA,0.085
+955,166,General Ales,0.065
+933,166,General Ales,0.07
+892,166,General Ales,0.065
+828,166,General Ales,0.065
+806,166,IPA,0.087
+755,166,General Ales,0.065
+754,166,General Ales,0.065
+726,166,IPA,0.087
+720,166,General Ales,0.09
+661,166,General Ales,0.08
+585,166,General Ales,0.08
+565,166,IPA,0.08
+391,166,IPA,0.09
+388,166,IPA,0.087
+8,166,Stout,0.099
+7,166,Pilsner,0.053
+6,166,IPA,0.099
+5,166,General Ales,0.08
+4,166,IPA,0.087
+1,166,General Ales,0.065
+805,503,IPA,0.092
+804,503,Stout,0.095
+803,503,Stout,0.099
+787,503,General Ales,0.08
+786,503,General Ales,0.08
+785,503,General Ales,0.08
+745,503,General Ales,0.065
+744,503,General Ales,0.065
+743,503,General Ales,0.065
+742,503,General Ales,0.065
+741,503,General Ales,0.065
+734,503,General Ales,0.052
+733,503,IPA,0.087
+1533,389,IPA,0.087
+1532,389,Stout,0.099
+1328,389,IPA,0.08
+1175,389,General Ales,0.08
+1166,389,General Ales,0.065
+1065,389,General Ales,0.065
+1908,275,IPA,0.055
+1946,261,General Ales,0.055
+1961,259,General Ales,0.04
+1684,341,IPA,0.048
+927,341,Wheat Beer,0.053
+1268,441,General Ales,0.052
+697,441,General Ales,0.053
+696,441,Kolsch,0.045
+694,441,Porter,0.05
+1805,307,General Ales,0.042
+1048,307,IPA,0.062
+1043,307,General Ales,0.044
+890,307,General Ales,0.048
+775,307,General Ales,0.055
+1087,468,Kolsch,0.05
+1931,266,Pilsner,0.046
+1930,266,Pale Wheat Ale,0.05
+2238,187,Lager,0.04
+2144,187,Pilsner,0.05
+2175,205,IPA,0.065
+2168,205,IPA,0.062
+1956,205,Pale Wheat Ale,0.042
+1794,205,Pilsner,0.045
+2633,13,General Ales,0.055
+2632,13,General Ales,0.048
+2631,13,General Ales,0.058
+2630,13,IPA,0.065
+2629,13,General Ales,0.05
+2628,13,IPA,0.05
+1062,470,General Ales,0.051
+1061,470,Pale Wheat Ale,0.047
+1060,470,Pilsner,0.049
+1055,470,Pale Wheat Ale,0.047
+1054,470,Pale Wheat Ale,0.047
+1053,470,Pale Wheat Ale,0.047
+2635,11,General Ales,0.041
+1404,11,General Ales,0.059
+1403,11,Dark Seasonal,0.069
+1402,11,IPA,0.067
+2312,157,IPA,0.061
+1636,355,General Ales,0.056
+1518,355,General Ales,0.073
+1384,355,IPA,0.07
+1797,310,Stout,0.05
+1437,310,General Ales,0.05
+1540,314,General Ales,0.07
+1491,314,Fruit or Vegetable,0.06
+1335,314,General Ales,0.045
+847,314,Porter,0.055
+846,314,Wheat Beer,0.045
+521,314,General Ales,0.055
+479,314,IPA,0.07
+2559,52,General Ales,0.065
+1760,324,IPA,0.069
+1759,324,General Ales,0.057
+1589,370,IPA,0.045
+1457,370,General Ales,0.049
+1191,370,IPA,0.068
+2336,147,Pilsner,0.05
+2553,55,General Ales,0.054
+2360,135,Pale Wheat Ale,0.059
+1463,135,Lager,0.069
+1462,135,Lager,0.06
+1461,135,Pilsner,0.058
+711,135,General Ales,0.057
+188,135,Pilsner,0.058
+130,135,Pale Wheat Ale,0.059
+399,544,Wheat Beer,0.052
+82,544,Wheat Beer,0.052
+2031,246,General Ales,0.045
+2030,246,Porter,0.055
+2269,176,Lager,0.046
+2229,176,General Ales,0.058
+2370,128,Wheat Beer,0.044
+2211,128,Wheat Beer,0.046
+1861,128,General Ales,0.099
+1718,128,General Ales,0.051
+1290,128,General Ales,0.059
+1091,128,Pilsner,0.053
+1086,128,General Ales,0.06
+830,128,General Ales,0.051
+1021,475,General Ales,0.072
+938,475,IPA,0.062
+715,475,Pilsner,0.049
+2516,68,General Ales,0.051
+2515,68,IPA,0.055
+2514,68,IPA,0.07
+2513,68,Porter,0.047
+2512,68,Rye Beer,0.058
+1467,403,Cider,0.055
+945,487,IPA,0.065
+583,487,IPA,0.065
+339,487,General Ales,0.058
+1375,421,Herbed / Mead,0.08
+1374,421,Herbed / Mead,0.08
+1373,421,Herbed / Mead,0.08
+2087,225,Wheat Beer,0.05
+2414,110,General Ales,0.05
+1581,110,Stout,0.09
+1176,110,IPA,0.07
+1006,110,IPA,0.099
+1005,110,General Ales,0.05
+636,110,IPA,0.07
+1538,386,Stout,0.064
+1075,386,Stout,0.064
+709,386,General Ales,0.05
+708,386,Lager,0.046
+706,386,General Ales,0.056
+220,386,General Ales,0.062
+2576,44,General Ales,0.055
+1133,44,General Ales,0.068
+609,44,Herbed / Mead,0.058
+418,44,Herbed / Mead,0.061
+416,44,Porter,0.068
+415,44,IPA,0.065
+414,44,Wheat Beer,0.05
+2452,93,General Ales,0.057
+2451,93,General Ales,0.055
+2132,93,General Ales,0.06
+1993,93,Porter,0.058
+1935,93,General Ales,0.043
+1852,93,IPA,0.072
+1851,93,General Ales,0.048
+2307,162,General Ales,0.038
+2580,42,Wheat Beer,0.035
+1807,42,General Ales,0.043
+1180,459,Wheat Beer,0.05
+1179,459,General Ales,0.05
+1771,321,IPA,0.05
+1654,321,General Ales,0.055
+2579,43,IPA,0.05
+2049,43,Fruit or Vegetable,0.08
+2048,43,IPA,0.05
+1880,43,Stout,0.071
+1879,43,IPA,0.062
+1878,43,General Ales,0.048
+1877,43,General Ales,0.08
+1764,43,General Ales,0.081
+1103,43,General Ales,0.053
+1102,43,General Ales,0.051
+1101,43,Wheat Beer,0.061
+1100,43,Lager,0.055
+1099,43,IPA,0.062
+1098,43,Fruit or Vegetable,0.048
+1330,427,Lager,0.045
+2074,229,Pilsner,0.053
+1280,229,Lager,0.055
+899,229,General Ales,0.059
+363,229,Stout,0.05
+158,229,IPA,0.07
+97,229,Lager,0.055
+1860,289,General Ales,0.051
+1577,376,General Ales,0.076
+1576,376,IPA,0.07
+1575,376,Stout,0.08
+2304,164,General Ales,0.071
+2249,164,General Ales,0.099
+2053,164,General Ales,0.051
+1842,164,General Ales,0.056
+1841,164,General Ales,0.072
+1782,164,IPA,0.063
+1552,164,Kolsch,0.045
+1479,397,General Ales,0.056
+1478,397,General Ales,0.073
+1370,397,Lager,0.048
+883,397,General Ales,0.073
+882,397,General Ales,0.056
+1868,288,Wheat Beer,0.05
+1867,288,IPA,0.068
+1865,288,General Ales,0.052
+1864,288,Kolsch,0.048
+2599,30,Porter,0.069
+2073,30,Dark Seasonal,0.095
+2063,30,IPA,0.091
+1934,30,General Ales,0.05
+1329,30,Pale Wheat Ale,0.06
+1299,30,IPA,0.065
+1073,30,General Ales,0.055
+1072,30,Wheat Beer,0.05
+1071,30,IPA,0.07
+852,30,Porter,0.069
+850,30,General Ales,0.055
+839,30,Herbed / Mead,0.081
+777,30,Fruit or Vegetable,0.05
+764,30,General Ales,0.055
+317,30,IPA,0.07
+286,30,Wheat Beer,0.05
+285,30,General Ales,0.055
+124,30,General Ales,0.055
+1392,419,General Ales,0.058
+1391,419,General Ales,0.068
+2002,252,IPA,0.089
+1683,252,General Ales,0.054
+1362,252,IPA,0.07
+1519,392,General Ales,0.055
+967,392,General Ales,0.071
+599,392,General Ales,0.045
+305,392,Stout,0.08
+304,392,Pilsner,0.055
+217,392,IPA,0.066
+1477,398,General Ales,0.05
+1503,394,Cider,0.065
+1466,394,Cider,0.065
+1245,394,Cider,0.065
+1324,428,Pale Wheat Ale,0.05
+1323,428,Dark Seasonal,0.05
+1078,428,IPA,0.045
+1077,428,General Ales,0.05
+588,428,Wheat Beer,0.041
+53,428,Lager,0.045
+815,502,Fruit or Vegetable,0.047
+1302,432,IPA,0.074
+1416,411,Cider,0.065
+1415,411,Cider,0.065
+918,494,IPA,0.07
+917,494,Porter,0.07
+2250,183,General Ales,0.077
+1768,183,General Ales,0.053
+1767,183,General Ales,0.077
+1766,183,General Ales,0.06
+1765,183,IPA,0.07
+2368,130,General Ales,0.068
+738,511,General Ales,0.05
+1539,385,IPA,0.069
+975,385,Pale Wheat Ale,0.051
+814,385,Fruit or Vegetable,0.047
+727,385,General Ales,0.051
+2474,83,Pilsner,0.052
+2239,83,IPA,0.072
+1919,83,Dark Seasonal,0.06
+1918,83,Rye Beer,0.06
+1905,83,General Ales,0.056
+1338,83,Pale Wheat Ale,0.048
+1295,83,Pilsner,0.05
+426,83,IPA,0.072
+400,83,General Ales,0.056
+2353,137,Cider,0.069
+212,551,General Ales,0.042
+161,551,General Ales,0.06
+160,551,IPA,0.068
+2574,46,Porter,0.1
+2479,46,Wheat Beer,0.042
+2443,46,General Ales,0.08
+2266,46,Fruit or Vegetable,0.032
+2090,46,IPA,0.065
+1962,46,General Ales,0.047
+1696,46,IPA,0.099
+1608,46,General Ales,0.07
+1591,46,IPA,0.067
+1388,46,Pilsner,0.054
+1387,46,General Ales,0.052
+1386,46,Rye Beer,0.063
+1385,46,IPA,0.064
+1020,46,Porter,0.099
+778,46,General Ales,0.059
+630,46,Pale Wheat Ale,0.052
+629,46,General Ales,0.049
+628,46,IPA,0.091
+525,46,Stout,0.063
+512,46,Fruit or Vegetable,0.06
+425,46,Pilsner,0.054
+424,46,General Ales,0.052
+423,46,Rye Beer,0.063
+422,46,IPA,0.064
+1942,264,IPA,0.045
+1708,264,Dark Seasonal,0.074
+1521,264,IPA,0.068
+1297,264,Stout,0.058
+1192,264,Stout,0.058
+1013,264,Stout,0.08
+386,264,General Ales,0.042
+70,264,General Ales,0.053
+69,264,General Ales,0.061
+68,264,ESB,0.057
+67,264,IPA,0.068
+1792,313,General Ales,0.058
+1609,313,IPA,0.071
+2537,64,IPA,0.085
+2536,64,General Ales,0.082
+30,557,General Ales,0.049
+2305,163,IPA,0.06
+1588,371,Dark Seasonal,0.055
+1211,371,IPA,0.062
+1123,371,Lager,0.049
+926,371,Dark Seasonal,0.055
+894,371,IPA,0.084
+24,371,IPA,0.07
+23,371,Lager,0.053
+22,371,Wheat Beer,0.056
+21,371,Pilsner,0.049
+20,371,General Ales,0.051
+2407,115,IPA,0.07
+2406,115,General Ales,0.058
+2405,115,General Ales,0.062
+2234,191,Pilsner,0.05
+1606,191,General Ales,0.06
+617,191,Stout,0.054
+407,191,General Ales,0.05
+406,191,Lager,0.05
+402,191,General Ales,0.052
+393,191,IPA,0.068
+1798,309,Kolsch,0.05
+1655,309,IPA,0.092
+1596,309,IPA,0.063
+1595,309,IPA,0.063
+1447,309,IPA,0.079
+1425,309,Stout,0.099
+1424,309,General Ales,0.055
+1298,309,Wheat Beer,0.05
+1181,309,Dark Seasonal,0.064
+1152,309,General Ales,0.043
+1151,309,General Ales,0.052
+1150,309,Pale Wheat Ale,0.046
+1076,309,Porter,0.057
+995,309,General Ales,0.084
+879,309,IPA,0.063
+1972,257,Dark Seasonal,0.07
+1971,257,IPA,0.055
+1970,257,General Ales,0.08
+1969,257,Kolsch,0.05
+2024,249,Lager,0.035
+1283,436,Pilsner,0.048
+1282,436,IPA,0.055
+2362,133,IPA,0.075
+2346,133,IPA,0.077
+2320,133,ESB,0.053
+2297,133,General Ales,0.058
+2296,133,General Ales,0.05
+1745,133,General Ales,0.08
+1120,133,Stout,0.058
+1118,133,General Ales,0.05
+1117,133,General Ales,0.058
+2387,118,General Ales,0.065
+2267,118,General Ales,0.055
+1728,118,IPA,0.085
+1497,118,IPA,0.092
+1011,118,IPA,0.085
+1010,118,General Ales,0.072
+856,118,General Ales,0.05
+853,118,IPA,0.099
+691,118,General Ales,0.055
+46,118,Stout,0.083
+45,118,General Ales,0.065
+44,118,General Ales,0.05
+2486,78,IPA,0.047
+2271,175,General Ales,0.058
+2206,175,IPA,0.096
+2136,175,Porter,0.082
+2135,175,IPA,0.079
+2134,175,General Ales,0.06
+2109,175,Stout,0.055
+1821,175,IPA,0.096
+1820,175,General Ales,0.073
+1819,175,IPA,0.062
+1634,175,General Ales,0.06
+1633,175,General Ales,0.058
+1632,175,Pale Wheat Ale,0.055
+855,498,Lager,0.05
+445,498,Lager,0.05
+1587,372,General Ales,0.056
+2242,186,Cider,0.052
+1544,383,Pilsner,0.042
+1205,383,IPA,0.065
+368,383,IPA,0.065
+2386,119,General Ales,0.065
+92,119,Kolsch,0.049
+91,119,Lager,0.057
+90,119,IPA,0.065
+2366,131,Lager,0.047
+2365,131,Lager,0.047
+2270,131,General Ales,0.054
+2228,131,Lager,0.047
+2151,131,General Ales,0.052
+2150,131,IPA,0.063
+2122,131,Lager,0.047
+2121,131,Lager,0.047
+2115,131,Lager,0.047
+1450,131,Dark Seasonal,0.062
+1225,131,Pale Wheat Ale,0.052
+816,131,Pale Wheat Ale,0.05
+772,131,Pale Wheat Ale,0.05
+684,131,General Ales,0.035
+650,131,Kolsch,0.049
+357,131,General Ales,0.054
+141,131,Pale Wheat Ale,0.05
+140,131,General Ales,0.054
+139,131,Lager,0.047
+138,131,Lager,0.047
+953,486,General Ales,0.051
+1983,255,General Ales,0.05
+1631,255,General Ales,0.05
+1344,255,General Ales,0.045
+922,492,General Ales,0.045
+1410,412,Kolsch,0.051
+925,412,Stout,0.05
+637,412,IPA,0.072
+2369,129,Lager,0.05
+2233,129,Lager,0.041
+2232,129,Lager,0.041
+2231,129,Lager,0.032
+2352,138,General Ales,0.053
+2549,58,ESB,0.053
+2473,58,General Ales,0.047
+2415,58,IPA,0.083
+2605,25,Lager,0.052
+2215,25,General Ales,0.054
+2164,25,Porter,0.054
+2085,25,General Ales,0.058
+2084,25,Dark Seasonal,0.083
+2083,25,General Ales,0.099
+2082,25,Dark Seasonal,0.09
+2081,25,Dark Seasonal,0.053
+2001,25,IPA,0.064
+2000,25,IPA,0.063
+1999,25,IPA,0.064
+1996,25,IPA,0.064
+1656,25,Dark Seasonal,0.09
+1599,25,ESB,0.065
+1420,25,IPA,0.075
+1389,25,General Ales,0.056
+1367,25,Stout,0.099
+1314,25,Pilsner,0.054
+1128,25,Stout,0.071
+1127,25,General Ales,0.054
+934,25,General Ales,0.07
+923,25,Dark Seasonal,0.09
+739,25,Lager,0.052
+698,25,Lager,0.052
+660,25,General Ales,0.08
+651,25,IPA,0.091
+584,25,Dark Seasonal,0.09
+532,25,IPA,0.075
+213,25,General Ales,0.054
+55,25,General Ales,0.053
+54,25,General Ales,0.056
+1207,455,Lager,0.045
+1206,455,IPA,0.07
+2543,61,IPA,0.072
+2409,61,ESB,0.057
+1739,61,General Ales,0.099
+1112,61,IPA,0.073
+329,61,IPA,0.075
+18,61,Rye Beer,0.055
+17,61,General Ales,0.051
+16,61,General Ales,0.051
+15,61,IPA,0.097
+13,61,General Ales,0.067
+12,61,IPA,0.062
+1242,447,IPA,0.073
+1241,447,Wheat Beer,0.05
+1240,447,General Ales,0.056
+1239,447,Stout,0.05
+1238,447,General Ales,0.059
+1554,381,Herbed / Mead,0.045
+2568,49,Pilsner,0.055
+2551,49,Wheat Beer,0.057
+1710,49,IPA,0.064
+1709,49,General Ales,0.054
+1229,449,IPA,0.08
+1164,449,General Ales,0.05
+663,449,IPA,0.05
+662,449,IPA,0.05
+623,449,Wheat Beer,0.049
+622,449,General Ales,0.05
+362,449,General Ales,0.05
+361,449,Wheat Beer,0.049
+2575,45,General Ales,0.085
+2555,45,General Ales,0.048
+1736,45,Porter,0.062
+1196,45,General Ales,0.056
+1063,45,Stout,0.05
+1017,45,IPA,0.068
+1009,45,General Ales,0.044
+912,45,ESB,0.072
+765,45,Stout,0.05
+676,45,Pale Wheat Ale,0.05
+595,45,General Ales,0.052
+537,45,General Ales,0.085
+412,45,Pale Wheat Ale,0.05
+105,45,Pilsner,0.05
+104,45,IPA,0.072
+103,45,General Ales,0.044
+102,45,Stout,0.05
+101,45,IPA,0.063
+1433,409,IPA,0.068
+1432,409,General Ales,0.056
+936,490,Lager,0.055
+544,490,IPA,0.07
+2640,7,Porter,0.065
+2448,7,IPA,0.07
+2447,7,Wheat Beer,0.057
+2601,28,Dark Seasonal,0.08
+973,480,General Ales,0.057
+827,480,IPA,0.064
+589,480,General Ales,0.055
+2155,210,ESB,0.048
+1982,210,Fruit or Vegetable,0.04
+1939,210,IPA,0.066
+1082,469,General Ales,0.047
+2119,215,General Ales,0.055
+2118,215,General Ales,0.063
+2117,215,Wheat Beer,0.056
+2116,215,IPA,0.071
+1916,272,General Ales,0.06
+1915,272,IPA,0.096
+1914,272,Stout,0.08
+1810,272,IPA,0.07
+1111,272,IPA,0.08
+379,272,IPA,0.08
+1200,457,General Ales,0.046
+1199,457,IPA,0.07
+1198,457,General Ales,0.048
+1197,457,Pale Wheat Ale,0.059
+1945,262,General Ales,0.05
+1079,262,General Ales,0.073
+94,262,Dark Seasonal,0.07
+1748,329,General Ales,0.052
+1747,329,General Ales,0.057
+1037,329,General Ales,0.063
+2594,33,General Ales,0.052
+2035,33,Kolsch,0.055
+2034,33,IPA,0.05
+1562,33,General Ales,0.069
+1561,33,IPA,0.099
+1749,328,IPA,0.046
+2455,90,Pilsner,0.045
+2638,9,General Ales,0.052
+1278,438,General Ales,0.058
+1277,438,Stout,0.059
+1276,438,General Ales,0.047
+2347,142,Pale Wheat Ale,0.048
+1781,142,General Ales,0.052
+1780,142,General Ales,0.041
+1779,142,General Ales,0.049
+2421,108,Fruit or Vegetable,0.051
+2319,153,General Ales,0.04
+2317,153,Porter,0.062
+2316,153,IPA,0.062
+1913,273,General Ales,0.053
+1912,273,IPA,0.06
+2617,21,Pale Wheat Ale,0.055
+2616,21,Stout,0.055
+2615,21,General Ales,0.054
+1889,282,General Ales,0.052
+1222,282,IPA,0.065
+2623,17,Porter,0.058
+2622,17,Fruit or Vegetable,0.052
+2621,17,Stout,0.12
+1817,17,Rye Beer,0.055
+1449,17,IPA,0.085
+951,17,IPA,0.058
+950,17,General Ales,0.051
+949,17,Porter,0.052
+948,17,Pilsner,0.045
+2321,152,General Ales,0.055
+1755,152,IPA,0.07
+1754,152,Porter,0.07
+1428,152,Fruit or Vegetable,0.05
+529,152,General Ales,0.045
+495,152,General Ales,0.055
+494,152,General Ales,0.045
+1856,291,IPA,0.073
+736,291,Lager,0.055
+1026,474,IPA,0.068
+1938,265,IPA,0.062
+1937,265,Stout,0.065
+1936,265,General Ales,0.06
+594,524,IPA,0.057
+114,524,Wheat Beer,0.05
+113,524,General Ales,0.08
+2445,97,Dark Seasonal,0.082
+2444,97,General Ales,0.075
+2203,97,Pilsner,0.045
+1510,97,Dark Seasonal,0.082
+1509,97,IPA,0.075
+433,539,General Ales,0.055
+641,520,IPA,0.062
+2588,38,Lager,0.054
+2458,38,IPA,0.075
+2212,38,Lager,0.051
+2235,190,IPA,0.041
+1661,190,IPA,0.048
+1660,190,General Ales,0.052
+1659,190,IPA,0.062
+1438,190,Pilsner,0.048
+1173,190,IPA,0.062
+560,190,General Ales,0.057
+519,190,General Ales,0.054
+518,190,General Ales,0.052
+505,190,IPA,0.062
+482,190,IPA,0.048
+451,190,Pale Wheat Ale,0.046
+2497,74,IPA,0.063
+2246,74,Wheat Beer,0.058
+1630,74,Wheat Beer,0.058
+1284,74,Lager,0.051
+1121,74,General Ales,0.051
+1040,74,General Ales,0.065
+861,74,General Ales,0.07
+642,74,IPA,0.065
+2037,243,Lager,0.045
+1285,435,Wheat Beer,0.05
+1189,435,IPA,0.06
+1171,435,IPA,0.072
+1170,435,General Ales,0.048
+1169,435,Pilsner,0.05
+2310,159,Fruit or Vegetable,0.05
+2100,159,Lager,0.04
+1925,159,IPA,0.04
+1723,159,IPA,0.073
+1212,159,General Ales,0.04
+1097,159,Dark Seasonal,0.04
+1089,159,IPA,0.073
+1088,159,General Ales,0.04
+974,159,General Ales,0.04
+98,555,Pilsner,0.055
+2372,126,IPA,0.06
+2367,126,Dark Seasonal,0.047
+1704,338,Cider,0.065
+1703,338,Cider,0.065
+877,338,Cider,0.065
+543,522,General Ales,0.068
+347,522,General Ales,0.064
+346,522,Porter,0.078
+25,522,Dark Seasonal,0.085
+2507,71,IPA,0.085
+2506,71,Wheat Beer,0.042
+829,71,General Ales,0.055
+582,71,Lager,0.06
+2190,202,IPA,0.045
+1951,202,Wheat Beer,0.045
+1950,202,IPA,0.06
+2565,51,Dark Seasonal,0.128
+2564,51,Rye Beer,0.104
+2563,51,General Ales,0.068
+2562,51,Stout,0.099
+2561,51,General Ales,0.076
+2560,51,General Ales,0.06
+1932,51,IPA,0.065
+1853,51,General Ales,0.075
+1315,51,IPA,0.099
+907,51,Dark Seasonal,0.082
+906,51,Fruit or Vegetable,0.077
+683,51,General Ales,0.075
+614,51,Stout,0.069
+466,51,Lager,0.048
+444,51,Lager,0.048
+345,51,General Ales,0.067
+80,51,General Ales,0.058
+79,51,IPA,0.072
+382,546,General Ales,0.053
+381,546,IPA,0.065
+1826,302,General Ales,0.04
+1825,302,IPA,0.09
+1824,302,Dark Seasonal,0.08
+1823,302,IPA,0.06
+1682,302,IPA,0.06
+1681,302,Fruit or Vegetable,0.04
+1680,302,IPA,0.09
+1679,302,General Ales,0.04
+2245,185,Cider,0.068
+2244,185,Cider,0.069
+1378,185,Cider,0.068
+1377,185,Cider,0.068
+1376,185,Cider,0.068
+2411,113,Stout,0.052
+1770,322,General Ales,0.092
+1769,322,Wheat Beer,0.079
+1730,322,General Ales,0.075
+1729,322,General Ales,0.092
+1603,322,IPA,0.073
+1488,322,Pilsner,0.075
+1846,295,IPA,0.04
+1845,295,IPA,0.06
+1844,295,IPA,0.056
+1843,295,Wheat Beer,0.047
+1418,295,IPA,0.085
+1038,295,Pale Wheat Ale,0.047
+1030,295,General Ales,0.051
+1029,295,IPA,0.04
+908,295,Fruit or Vegetable,0.052
+619,295,Fruit or Vegetable,0.045
+618,295,IPA,0.06
+780,506,General Ales,0.047
+2450,94,IPA,0.052
+2223,94,General Ales,0.054
+2222,94,Stout,0.07
+2221,94,IPA,0.07
+2439,100,Herbed / Mead,0.09
+2356,100,Porter,0.07
+1069,100,General Ales,0.055
+1542,384,General Ales,0.055
+1312,384,Wheat Beer,0.04
+576,384,Wheat Beer,0.05
+575,384,IPA,0.068
+1551,351,Lager,0.052
+1550,351,IPA,0.058
+2348,132,Dark Seasonal,0.08
+2343,132,IPA,0.075
+2340,132,General Ales,0.052
+2573,47,Wheat Beer,0.055
+2572,47,IPA,0.05
+2571,47,Wheat Beer,0.055
+2570,47,Wheat Beer,0.055
+1498,396,IPA,0.06
+1837,296,Wheat Beer,0.049
+1836,296,Wheat Beer,0.049
+1619,361,IPA,0.082
+1618,361,Fruit or Vegetable,0.045
+1364,361,General Ales,0.05
+971,361,General Ales,0.052
+740,361,IPA,0.082
+430,361,IPA,0.082
+398,361,Wheat Beer,0.042
+366,361,Stout,0.06
+334,361,Fruit or Vegetable,0.045
+162,361,General Ales,0.056
+2253,181,General Ales,0.068
+1318,181,Dark Seasonal,0.057
+1195,181,Pilsner,0.045
+1194,181,General Ales,0.051
+826,499,Stout,0.054
+825,499,Dark Seasonal,0.075
+813,499,Lager,0.05
+324,550,General Ales,0.072
+323,550,General Ales,0.05
+762,509,IPA,0.074
+761,509,Porter,0.08
+2149,211,Lager,0.055
+2148,211,IPA,0.071
+2147,211,Porter,0.052
+2146,211,IPA,0.048
+2047,239,General Ales,0.059
+1470,239,IPA,0.062
+1469,239,Pilsner,0.045
+2627,14,IPA,0.058
+2626,14,General Ales,0.045
+1676,344,IPA,0.059
+1468,402,General Ales,0.047
+822,501,Cider,0.05
+2417,109,IPA,0.065
+2306,109,Pilsner,0.028
+1697,339,IPA,0.065
+2194,199,IPA,0.069
+1514,199,Kolsch,0.045
+1513,199,IPA,0.077
+1512,199,IPA,0.069
+1511,199,General Ales,0.06
+1316,424,General Ales,0.082
+1045,424,Fruit or Vegetable,0.055
+1035,424,Stout,0.075
+928,424,IPA,0.067
+807,424,General Ales,0.052
+620,424,Dark Seasonal,0.055
+145,424,General Ales,0.055
+84,424,General Ales,0.052
